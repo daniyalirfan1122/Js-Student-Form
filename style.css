@@ -1,0 +1,49 @@
+
+
+.container{
+    
+}
+
+.main{
+    border: 1px solid;
+    width: 50%;
+    margin-left: 25%;
+    background-color: aqua;
+    border-radius: 20px;
+    height: 350px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+
+}
+form {
+margin-left: 30%;
+margin-top: 6%;
+}
+.title{
+    text-align: center;
+}
+input{
+    border: none;
+    outline: none;
+}
+.detail {
+    text-align: center;
+}
+.para1 {
+    width: 50%;
+    height: 300px;
+    border: 1px solid;
+    margin-left: 25%;
+    border-radius: 20px;
+    background-color: steelblue;
+}
